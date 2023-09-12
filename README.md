@@ -1,7 +1,7 @@
 
 <div id="header" align="center"  >
 <kbd > 
-<img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400"   />
+<img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="300"   />
 </kbd>
 </div>
 <h1 align="center">Hi 👋, I'm Elvis Villatoro</h1>
