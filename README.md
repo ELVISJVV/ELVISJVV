@@ -14,8 +14,6 @@
 
 - 🌐 Tecnologías Web Modernas: Estoy constantemente explorando y aprendiendo sobre las últimas tecnologías y tendencias en desarrollo web.
 
-- 📊 Ciencia de Datos: También me intriga el mundo de la ciencia de datos y estoy trabajando en mejorar mis habilidades en este campo.
-
 ### Lo que hago
 
 - 👨‍💻 Actualmente, estoy trabajando en proyectos personales y académicos para fortalecer mis habilidades en desarrollo web.
