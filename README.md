@@ -4,8 +4,37 @@
 <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="300"   />
 </kbd>
 </div>
-<h1 align="center">Hi 👋, I'm Elvis Villatoro</h1>
+<h1 align="center">Hi 👋, I'm Elvis Vásquez</h1>
 <h3 align="center">Coding...</h3>
+¡Hola! Soy Elvis, un apasionado estudiante de Ingeniería en Ciencias y Sistemas con un enfoque en desarrollo Full Stack. Actualmente, me encuentro en la emocionante etapa de mi carrera donde estoy adquiriendo habilidades y experiencia para convertirme en un desarrollador web altamente competente.
+
+### Mis Intereses
+
+- 💻 Desarrollo Full Stack: Disfruto de la programación tanto en el frontend como en el backend. Me encanta crear aplicaciones web completas y funcionales.
+
+- 🌐 Tecnologías Web Modernas: Estoy constantemente explorando y aprendiendo sobre las últimas tecnologías y tendencias en desarrollo web.
+
+- 📊 Ciencia de Datos: También me intriga el mundo de la ciencia de datos y estoy trabajando en mejorar mis habilidades en este campo.
+
+### Lo que hago
+
+- 👨‍💻 Actualmente, estoy trabajando en proyectos personales y académicos para fortalecer mis habilidades en desarrollo web.
+
+- 📚 Estoy comprometido con el aprendizaje continuo y siempre busco oportunidades para mejorar mis conocimientos y habilidades.
+
+- 🤝 Me encanta colaborar con otros desarrolladores y aprender de sus experiencias.
+
+### Mis Tecnologías Favoritas
+
+- Frontend: HTML, CSS, JavaScript, React
+
+- Backend: Node.js, Express, Python
+
+- Bases de Datos:  PostgreSQL
+
+- Otras herramientas: Git, VSCode, Postman
+
+Siempre estoy abierto a nuevas oportunidades y desafíos. ¡No dudes en ponerte en contacto conmigo si quieres colaborar en proyectos interesantes o simplemente charlar sobre tecnología!
 
 
 - 📫 How to reach me **elvisplus369@gmail.com**
