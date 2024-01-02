@@ -13,6 +13,7 @@
 - 💻 Desarrollo Full Stack: Disfruto de la programación tanto en el frontend como en el backend. Me encanta crear aplicaciones web completas y funcionales.
 
 - 🌐 Tecnologías Web Modernas: Estoy constantemente explorando y aprendiendo sobre las últimas tecnologías y tendencias en desarrollo web.
+<!--
 
 ### Lo que hago
 
@@ -34,6 +35,7 @@
 
 Siempre estoy abierto a nuevas oportunidades y desafíos. ¡No dudes en ponerte en contacto conmigo si quieres colaborar en proyectos interesantes o simplemente charlar sobre tecnología!
 
+-->
 
 - 📫 How to reach me **elvisvasquez599@gmail.com**
 
