@@ -8,7 +8,7 @@
 <h3 align="center">Coding...</h3>
 ¡Hola! Soy Elvis, un apasionado estudiante de Ingeniería en Ciencias y Sistemas con un enfoque en desarrollo Full Stack. Actualmente, me encuentro en la emocionante etapa de mi carrera donde estoy adquiriendo habilidades y experiencia para convertirme en un desarrollador web altamente competente.
 
-### Mis Intereses
+
 
 - 💻 Desarrollo Full Stack: Disfruto de la programación tanto en el frontend como en el backend. Me encanta crear aplicaciones web completas y funcionales.
 
